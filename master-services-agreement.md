@@ -1,5 +1,3 @@
-# Master Services Agreement
-
 Hello and thank you for trusting 215, LLC d/b/a 2Fifteen Tech ("2Fifteen," "we," "us," or "our") to provide you with professional information technology services. This Master Services Agreement (this "Agreement") governs our business relationship with you, so please read this document carefully and keep a copy for your records.
 
 #### SCOPE
